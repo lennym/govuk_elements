@@ -34,6 +34,7 @@
     "gulp-mocha": "^4.3.1",
     "gulp-nodemon": "^2.2.1",
     "gulp-rename": "^1.2.2",
+    "gulp-run": "^1.7.1",
     "gulp-sass": "^2.3.2",
     "gulp-scss-lint": "^0.4.0",
     "gulp-standard": "^8.0.2",
