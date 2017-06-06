@@ -33,8 +33,6 @@
 // Panels within form groups
 // By default, panels have 15px bottom margin
 .form-group .panel-border-narrow {
-  float: left;
-  width: 100%;
   // Remove the bottom padding as .form-group sets a bottom margin
   padding-bottom: 0;
   // Don't remove the bottom margin for all panels, assume they are often within stacked groups
